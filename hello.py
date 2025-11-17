@@ -1,3 +1,3 @@
 print("test")
-print("test from laptoسسp")
+print("test ssslaptoسسp")
 a = 1*
